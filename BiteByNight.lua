@@ -1,3 +1,3 @@
-getgenv().SCRIPT_KEY = "KEYLESS"
+script_key = "Trial"
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/bba67614813555e540a369a28d6411e5cf09b6ef881839a9952efe97f15913d1/download"))()
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/a40fe072d806d31d6eab06ef8564eae372a4834d004fc6d8fb5330094596d727.lua"))()
